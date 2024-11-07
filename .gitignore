@@ -1,0 +1,22 @@
+# Ignore the virtual environment folder
+A3/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE-specific files and settings (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore database files (optional, depending on your project)
+*.db
+*.sqlite3
